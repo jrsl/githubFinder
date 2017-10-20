@@ -1,14 +1,16 @@
 # githubFinder
 This project is a Github User finder, it displays user and user repos info.
 
-- Technology used -
+TECHNOLOGY USED
+
 Node JS
 Bower
 Gulp
 jQuery
 ES6 features
 
-- To run -
+TO RUN
+
 In the terminal do:
 npm install
 Then bower install
