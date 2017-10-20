@@ -12,6 +12,9 @@ ES6 features
 TO RUN
 
 In the terminal do:
+
 npm install
+
 Then bower install
+
 And run the server with gulp serve
